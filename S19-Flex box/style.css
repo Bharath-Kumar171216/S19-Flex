@@ -1,0 +1,185 @@
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    margin: 5px;
+    border-radius: 10px;
+}
+.mainDiv{
+    display: inline-block;
+}
+.classContainer{
+    width: 400px;
+    height: 350px;
+    background-color: aqua;
+    border: 4px solid hotpink;
+    box-shadow: 10px 10px 10px black;
+    margin: 5px;
+    border-radius: 10px;
+}
+.item{
+    width: 50px;
+    height: 50px;
+    background-color: greenyellow;
+    border: 2px solid black;
+    font-size: 20px;
+    text-align: center;
+    margin: 0.5px;
+    border-radius: 10px;
+}
+#container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+}
+#container3{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: start;
+}
+#container4{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+}
+#container5{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+#container6{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+}
+#container7{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: end;
+}
+#container8{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: end;
+}
+#container9{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end;
+}
+#container10{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+#container11{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+#container12{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: end;
+}
+#container13{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+#container14{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#container15{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+}
+#container16{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: start;
+}
+#container17{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+}
+#container18{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+}
+#container19{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+#container20{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+#container21{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: end;
+    align-items: end;
+    /* position: relative;
+    bottom: 32px; */
+}
+#container22{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: end;
+    /* position: relative;
+    bottom: 30px; */
+}
+#container23{
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    position: relative;
+    bottom: 295px;
+}
+#container24{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 145px;
+    
+}
+#container25{
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 295px;
+    
+}
+
+
